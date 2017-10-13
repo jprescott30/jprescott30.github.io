@@ -1,13 +1,13 @@
 h1 {
-	color: green;
+	color: red;
 	font-size: 200%;
 	font-weight: bold;
-
+	
 }
 
 body {
-	background: blue;
-	color: red;
+	background: DeepSkyBlue;
+	color: ForestGreen;
 	font-size: 16pt;
 	font-family: 'Josefin Sans', sans-serif;
 	}
